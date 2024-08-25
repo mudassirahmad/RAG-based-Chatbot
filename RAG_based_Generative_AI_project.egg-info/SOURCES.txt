@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+RAG_based_Generative_AI_project.egg-info/PKG-INFO
+RAG_based_Generative_AI_project.egg-info/SOURCES.txt
+RAG_based_Generative_AI_project.egg-info/dependency_links.txt
+RAG_based_Generative_AI_project.egg-info/top_level.txt
