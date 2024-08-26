@@ -23,7 +23,7 @@ This project leverages the power of LangChain, Google Generative AI, and FAISS t
 
 #### Initiate a Conversational Chain
 
-- Set up the conversational AI using `get_conversational_chain()`, which integrates a language model with memory and a retrieval-based system.
+- Set up the conversational AI using `get_conversational_chain()`, which integrates a Google Generative AI language model `embedding-001` with memory and a retrieval-based system.
 
 ---
 
